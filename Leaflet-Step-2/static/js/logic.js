@@ -1,6 +1,6 @@
 
 var quakeData = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson";
-var boundaries = "static/data/GeoJSON/PB2002_boundaries.json";
+var boundaries = "Leaflet-Step-2/static/data/GeoJSON/PB2002_boundaries.json";
 
 // Get the data with d3.
 
